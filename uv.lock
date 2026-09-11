@@ -466,7 +466,7 @@ requires-dist = [
     { name = "pillow", specifier = ">=10" },
     { name = "pyboy", specifier = "==2.7.0" },
     { name = "pytest", marker = "extra == 'dev'" },
-    { name = "uvicorn", extras = ["standard"], specifier = ">=0.29" },
+    { name = "uvicorn", extras = ["standard"], specifier = ">=0.52.4" },
 ]
 provides-extras = ["dev"]
 
